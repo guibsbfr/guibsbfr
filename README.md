@@ -4,8 +4,7 @@
 
 ## About me
 
-Estudante de Ciência da Computação interessado em desenvolvimento de software e backend.
-
+Estudante de Ciência da Computação atualmente focado em desenvolvimento backend
 ## Currently learning
 
 - Java
