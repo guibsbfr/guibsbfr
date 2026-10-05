@@ -1,6 +1,6 @@
 # Guilherme de Lima
 
-> Computer Science Student • Backend Development
+> Computer Science Student • Backend Developer
 
 ## About me
 
