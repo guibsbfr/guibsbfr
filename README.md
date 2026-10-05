@@ -9,7 +9,8 @@ Estudante de Ciência da Computação atualmente focado em desenvolvimento backe
 
 - Java
 - Object-Oriented Programming
-- Git & GitHub
+- Software Architecture
+- Git
 - SQL
 
 ## Projects
