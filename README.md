@@ -4,7 +4,7 @@
 
 ## About me
 
-Estudante de Ciência da Computação atualmente focado em desenvolvimento backend
+Estudante de Ciência da Computação atualmente focado em desenvolvimento Backend
 ## Currently learning
 
 - Java
